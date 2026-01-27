@@ -5,3 +5,7 @@
   box-sizing: border-box;
   font-family: Poppins;
 }
+::-webkit-scrollbar {
+  /* width: 8px; */
+  display: none;
+}
